@@ -1,1 +1,4 @@
 so when i was recreating this, the soundfont player i used was sforzando, but you can use whatever soundfont player you want that works with FL Studio, if your using the default soundfont player, load "GenesiSF" from the folder into a soundfont player and select "Lead 1" For boyfriend you just drag it into there and it loads the voice automatically.
+I can't upload the soundfont's cause their over 25 MB, so here are the download links:
+FNF Boyfriend: https://gamebanana.com/dl/598019
+Sonic: https://f.mtsys.us/s/arTJR6995S98oDQ/download
